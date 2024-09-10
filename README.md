@@ -46,3 +46,5 @@ ODS 8 - Trabalho decente e crescimento econômico.
 #### Isaac Daniel
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
+#### Trello
+[Trello]([https://youtu.be/mjugk59N3o8](https://trello.com/b/1dIjUvf2/fundamentos-de-desenvolvimento-de-software))
