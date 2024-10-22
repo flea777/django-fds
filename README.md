@@ -17,10 +17,15 @@ ODS 8 - Trabalho decente e crescimento econômico.
 - Financeiro: Esse setor poderá visualizar a compra e venda dos produtos, sendo possível a geração de relatorios, performance dos vendedores, etc.
 - Administrativo: Esse é o acesso total ao sistema, tendo permissão para extração de mais relatorios do sistema.
 
+### Site Deploy
+[Site](https://fds-stock-textil.vercel.app/)
+
 ### Histórias do Usuário:
 
 [Histórias do Usuário](https://docs.google.com/document/d/1qDW40AHVDB0no-b6ELooIT8nMXCAplJTSQW6Ia_0Miw/edit?usp=sharing)
 
+### Diagrama
+[Diagrama de Atividades](https://lucid.app/lucidchart/8deaf3bd-ca9b-4c7e-8273-f7c67d2d092a/edit?viewport_loc=-4750%2C-2996%2C2800%2C1648%2C0_0&invitationId=inv_8e2f2ead-7c6f-487e-a5dc-84314c1b134e)
 
 ### Screencast
 
